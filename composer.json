@@ -1,0 +1,17 @@
+{
+  "name": "ph2m/scopehint",
+  "description": "Override AvS/ScopeHint Magento module to allow every custom EAV object",
+  "type": "magento-module",
+  "license": "No Licence",
+  "authors": [
+    {
+      "name": "PH2M",
+      "email": "contact@ph2m.com"
+    }
+  ],
+  "suggest": {
+    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency.",
+    "aoepeople/aoe_scheduler": "Required if you use queue system"
+  },
+  "minimum-stability": "dev"
+}

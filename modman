@@ -1,0 +1,5 @@
+src/app/etc/modules/PH2M_Scopehint.xml                         app/etc/modules/PH2M_Scopehint.xml
+src/app/code/community/PH2M/Scopehint/Block/ScopeHint/Hint.php app/code/community/PH2M/Scopehint/Block/ScopeHint/Hint.php
+src/app/code/community/PH2M/Scopehint/etc/config.xml           app/code/community/PH2M/Scopehint/etc/config.xml
+src/app/code/community/PH2M/Scopehint/Helper/Data.php          app/code/community/PH2M/Scopehint/Helper/Data.php
+src/app/code/community/PH2M/Scopehint/Model/Observer.php       app/code/community/PH2M/Scopehint/Model/Observer.php

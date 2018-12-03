@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <PH2M_Scopehint>
+            <active>true</active>
+            <codePool>community</codePool>
+        </PH2M_Scopehint>
+    </modules>
+</config>
