@@ -9,6 +9,9 @@
       "email": "contact@ph2m.com"
     }
   ],
+  "require": {
+    "avstudnitz/scopehint": "dev-master"
+  },
   "suggest": {
     "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency.",
     "aoepeople/aoe_scheduler": "Required if you use queue system"

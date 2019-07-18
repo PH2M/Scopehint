@@ -4,6 +4,9 @@
         <PH2M_Scopehint>
             <active>true</active>
             <codePool>community</codePool>
+            <depends>
+                <AvS_ScopeHint />
+            </depends>
         </PH2M_Scopehint>
     </modules>
 </config>
